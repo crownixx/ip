@@ -1,4 +1,5 @@
 #EXTM3U
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 https://linears-playback.astro.com.my/vsg/21lqwn2z8tcv6KWkUQMjrknW6MuOnY8Poi5BuSlQYQGGY=r7Oq/dash-wv/jitp-linearwm/1004/default_ott.mpd
