@@ -1,0 +1,307 @@
+f<!DOCTYPE html>
+<html>
+    <head>
+      <title>Index</title>
+    <head>
+    <body>
+<link rel="icon" type="image/png" href="images/channels4_profile.jpg"/>
+<meta http-equiv="refresh" content="0; url=home" />
+
+<noscript>
+
+#EXTINF:-1 tvg-id="TV1" group-title="MuZu | myFreeview" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+# https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+
+#EXTINF:-1 tvg-id="TV2" group-title="MuZu | myFreeview" ch-number="102" tvg-logo="https://aqfad.netlify.app/logos/TV2.png",102 TV2
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+# https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+
+#EXTINF:-1 tvg-id="TV3" group-title="MuZu | myFreeview" ch-number="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3
+# https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
+
+#EXTINF:-1 tvg-id="DramaSangat" group-title="MuZu | myFreeview" ch-number="105" tvg-logo="http://mediahomes.github.io/logos/drama-sangat.png",105 Drama Sangat
+# https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
+https://aqfad.netlify.app/stream/DramaSangat.m3u8
+
+#EXTINF:-1 tvg-id="TVSUKAN" group-title="MuZu | Sport" ch-number="111" tvg-logo="https://mediahomes.github.io/logos/sukan.png",111 Sukan RTM
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+# https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+
+#EXTINF:-1 tvg-id="TV6" group-title="MuZu | myFreeview" tvg-logo="https://mediahomes.github.io/logos/tv6.png",113 TV6
+# https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
+https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+
+#EXTINF:-1 tvg-id="GOShopMYTV" group-title="MuZu | myFreeview" tvg-logo="https://i.kampung.xyz/c/20d0f2053da42ed2.png",120 Go Shop  
+https://agsplayback01.astro.com.my/CH2/master_MYTVGOSHOP4_03.m3u8
+
+#EXTINF:-1 tvg-id="AwesomeTV" ch-number="123" group-title="MuZu | myFreeview" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png",123 Awesome TV
+# http://queentv.xyz:2082/0gvRLck11c/O0U8QS9YGw/16
+https://live.astradamy.com/awesometv/index.m3u8
+
+#EXTINF:-1 tvg-id="BERITARTM" group-title="MuZu | myFreeview" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Berita_RTM_v2.png/revision/latest?cb=20210504031757",123 Berita RTM
+# https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
+# https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8|Referer=https://rtmklik.rtm.gov.my
+https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+
+#EXTINF:-1 tvg-id="OKEY" ch-number="146" group-title="MuZu | myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",146 OKEY
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+# https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+
+#EXTINF:-1 tvg-id="DidikTVKPM" ch-number="147" group-title="MuZu | myFreeview" tvg-logo="https://didik.tv/images/logotv2.png",147 DidikTV KPM
+# https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
+https://aqfad.netlify.app/stream/DidikTVKPM.m3u8
+
+#EXTINF:-1 tvg-id="8TV" ch-number="148" group-title="MuZu | myFreeview" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",148 8TV 
+# https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
+https://aqfad.netlify.app/stream/8TV.m3u8
+
+#EXTINF:-1 tvg-id="TV9" ch-number="149" group-title="MuZu | myFreeview" tvg-logo="https://i.postimg.cc/DfRv24K4/TV9-2021.png",149 TV9
+# https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
+https://aqfad.netlify.app/stream/TV9.m3u8
+
+#EXTINF:-1 tvg-id="HBOAsia.us" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="MuZu | Movie",HBO
+https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+
+#EXTINF:-1 tvg-id="CinemaxAsia.us" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png" group-title="MuZU | Movie",CINEMAX
+https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
+
+#EXTINF:-1 tvg-id="HBOHits.us" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446409_ico.png" group-title="MuZu | Movie",HBO HITS
+https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+
+#EXTINF:-1 tvg-id="HBOFamilyAsia.us" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png" group-title="Muzu | Movie",HBO FAMILY
+https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+
+#EXTINF:-1 tvg-id="404" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="MuZU | Movie",BOO
+http://wanicelife.com:8880/live/SWFAF1221601/5PT5WX5J/1697.ts
+
+#EXTINF:-1 tvg-id="AstroAwani" ch-number="501" group-title="MuZu | News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/501.png/revision/latest?cb=20200520200333",501 Astro Awani 
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+
+#EXTINF:-1 tvg-id="BernamaTV" group-title="MuZu | News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png",502 BERNAMA (HD) 
+https://raw.githubusercontent.com/AqFad2811/BernamaHDYT/main/youtube.m3u8
+
+#EXTINF:-1 tvg-id="701" group-title="MuZu | Sport"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848",unifi Sports 1 HD
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#EXTINF:-1 tvg-id="113" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura.png" group-title="MuZu | Indo",ASTRO AURA
+http://wanicelife.com:8880/live/SWFAF1221601/5PT5WX5J/71145.ts
+
+#EXTINF:-1 tvg-id="112" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania.png" group-title="MuZu | Indo",ASTRO RANIA
+http://wanicelife.com:8880/live/SWFAF1221601/5PT5WX5J/71144.ts
+
+#EXTINF:-1 group-title="MuZu | Radio" tvg-id="CHN" ch-number="958" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/koUQs6gN",Suria FM
+https://22283.live.streamtheworld.com/SURIA_FMAAC.aac
+
+#EXTINF:-1 group-title="MuZu | Radio" tvg-id="CHN" ch-number="721" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/HotFM2021.png/revision/latest/scale-to-width-down/250?cb=20210801171400", Hot FM 
+https://mediaprima.rastream.com/mediaprima-hotfm
+
+#EXTINF:-1 group-title="MuZu | Radio" tvg-id="CHN" ch-number="722" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BuletinFM2021.png/revision/latest/scale-to-width-down/300?cb=20210801172624",Buletin FM
+https://mediaprima.rastream.com/mediaprima-koolfm
+
+#EXTINF:-1 group-title="MuZu | Radio" tvg-id="CHN" ch-number="723" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/FlyFM2021.png/revision/latest/scale-to-width-down/300?cb=20210801171738",Fly FM
+https://mediaprima.rastream.com/mediaprima-flyfm
+
+#EXTINF:-1 group-title="MuZu | Radio" tvg-id="CHN" ch-number="724" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/8FM2021.png/revision/latest/scale-to-width-down/200?cb=20210801172242",8FM
+https://mediaprima.rastream.com/mediaprima-onefm
+
+#EXTINF:-1 group-title="MuZu | Radio" tvg-id="CHN" ch-number="725" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/MolekFM.png",Molek FM
+https://mediaprima.rastream.com/mediaprima-molekfm
+
+#EXTINF:-1 group-title="MuZu | Radio" tvg-id="HITZ" ch-number="852" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png",HITZ
+https://astro1.rastream.com/hitz
+
+#EXTINF:-1 group-title="MuZu | Radio" tvg-id="MY" ch-number="853" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png", MY
+https://astro1.rastream.com/myfm
+
+#EXTINF:-1 group-title="MuZu | Radio" tvg-id="MIX" ch-number="855" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png",MIX
+https://astro2.rastream.com/mix
+
+#EXTINF:-1 group-title="MuZu | Radio" tvg-id="ERA" ch-number="856" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png",ERA
+https://astro2.rastream.com/era
+
+#EXTINF:-1 group-title="MuZu | Radio" tvg-id="SINAR" ch-number="857" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png",SINAR
+https://astro2.rastream.com/sinar
+
+#EXTINF:-1 group-title="MuZu | Radio" tvg-id="MELODY" ch-number="858" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/28_144.png",MELODY
+https://astro3.rastream.com/melody
+
+#EXTINF:-1 group-title="MuZu | Radio" tvg-id="RAAGA" ch-number="859" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/30_144.png",RAAGA
+https://astro3.rastream.com/raaga
+
+#EXTINF:-1 group-title="MuZu | Radio" tvg-id="ROCK" ch-number="860" tvg-logo="https://aqfad.netlify.app/logos/SyokClassicRock2021.png",SYOK Classic Rock
+https://astro4.rastream.com/rock
+
+#EXTINF:-1 group-title="MuZu | Radio" tvg-id="GOLD" ch-number="861" tvg-logo="https://aqfad.netlify.app/logos/SyokGold2021.png",SYOK Gold
+https://astro4.rastream.com/gold
+
+#EXTINF:-1 group-title="MuZu | Radio" tvg-id="OPUS" ch-number="862" tvg-logo="https://aqfad.netlify.app/logos/SyokOpus2021.png",SYOK Opus
+https://astro4.rastream.com/opus
+
+#EXTINF:-1, group-title="MuZu | Radio" tvg-id="CHN" tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png",Radio IKIM
+# https://live.astradamy.com/ikimfm/index.m3u8
+http://aqfadunifi.ddns.net:8080/ikim.m3u8
+
+#EXTINF:-1, group-title="MuZu | Radio" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Mola_logo_%282021%29.png/revision/latest/scale-to-width-down/300?cb=20210603035347", Mola Radio
+https://cdn3.wowza.com/1/OWlOaXJWREpLUzhs/RjZPa2pL/hls/live/playlist.m3u8
+
+#EXTINF:-1 group-title="MuZu | Radio" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/My_FM_Sarawak_2018.png/revision/latest?cb=20211113091627",MY Sarawak
+https://astro1.rastream.com/amp-myfm-kch
+
+#EXTINF:-1 group-title="MuZu | Radio" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/My_FM_Sabah_2018.png/revision/latest?cb=20211113091611",MY Sabah
+https://astro1.rastream.com/amp-myfm-kk
+
+#EXTINF:-1 group-title="MuZu | Radio" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Hitz_Sarawak_2018.png/revision/latest?cb=20211113030223",HITZ Sarawak
+https://astro1.rastream.com/amp-hitz-kch
+
+#EXTINF:-1 group-title="MuZu | Radio" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Hitz_Sabah_2018.png/revision/latest?cb=20211113030208",HITZ Sabah
+https://astro1.rastream.com/amp-hitz-kk
+
+#EXTINF:-1 group-title="MuZu | Radio" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Era_Sabah_2018.png/revision/latest?cb=20211107023416",ERA Sabah
+https://astro2.rastream.com/amp-era-kk
+
+#EXTINF:-1 tvg-id="CHN" ch-number="878" group-title="MuZu | Radio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/501.png/revision/latest?cb=20200520200333",Astro Awani Radio
+http://aqfadunifi.ddns.net:8080/awaniradio.m3u8
+
+#EXTINF:-1 group-title="MuZu | Radio" tvg-id="GOXUAN" ch-number="877" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/293_144.png",GOXUAN
+http://aqfadunifi.ddns.net:8080/goxuan.m3u8
+
+#EXTINF:-1 group-title="MuZu | Radio" tvg-id="ZAYAN" ch-number="876" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/292_144.png",ZAYAN
+http://aqfadunifi.ddns.net:8080/zayan.m3u8
+
+#EXTINF:-1 group-title="MuZu | Radio" tvg-id="AIFM" ch-number="874" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/303_144.png",AI FM
+https://klfmmobile.secureswiftcontent.com/rtm-ch020/rtm-ch020/playlist.m3u8
+
+#EXTINF:-1 group-title="MuZu | Radio" tvg-id="MINNALFM" ch-number="873" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/311_144.png",MINNAL FM
+https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021.m3u8
+
+#EXTINF:-1 group-title="MuZu | Radio" tvg-id="TRAXXFM" ch-number="872" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/312_144.png",TRAXX FM
+https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch019.m3u8
+
+#EXTINF:-1 group-title="MuZu | Radio" tvg-id="NASFM" ch-number="869" tvg-logo="https://user-images.githubusercontent.com/85995579/128818868-1f01f150-d8ec-4d0a-913c-efbd58b35536.png",Nasional FM
+https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017-96000.m3u8
+
+#EXTINF:-1 group-title="MuZu | Radio" tvg-id="KENYALANG" ch-number="868" tvg-logo="https://aqfad.netlify.app/logos/SyokKenyalang2021.png",SYOK Kenyalang
+https://astro4.rastream.com/kenyalang
+
+#EXTINF:-1 group-title="MuZu | Radio" tvg-id="BAYU" ch-number="867" tvg-logo="https://aqfad.netlify.app/logos/SyokBayu2021.png",SYOK Bayu
+https://astro4.rastream.com/bayu
+
+#EXTINF:-1 tvg-id="108" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="MuZu | Astro",ASTRO CITRA
+http://wanicelife.com:8880/SWFAF1221601/5PT5WX5J/71146
+
+#EXTINF:-1 tvg-id="106" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png" group-title="MuZu | Astro",ASTRO OASIS
+http://wanicelife.com:8880/live/SWFAF1221601/5PT5WX5J/71021.ts
+
+#EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="MuZu | Astro",ASTRO RIA
+http://wanicelife.com:8880/SWFAF1221601/5PT5WX5J/1705
+
+#EXTINF:-1 tvg-id="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-title="MuZu | Astro",ASTRO PRIMA
+http://wanicelife.com:8880/live/SWFAF1221601/5PT5WX5J/71020.ts
+
+#EXTINF:-1 tvg-id="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="MuZu | Astro",ASTRO WARNA
+http://wanicelife.com:8880/SWFAF1221601/5PT5WX5J/1706
+
+#EXTINF:-1 tvg-id="nationalgeographicchannel.id" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="http://www.cloudnspro.xyz/esmi/ng.png" group-title="MuZu | Knowledge",NATIONAL GEOGRAPHIC FHD
+https://my.odtv.uk:443/live/9486331171/7860879594/89.ts
+
+#EXTINF:-1 tvg-id="nationalgeographicwild.id" tvg-name="NAT GEO WILD FHD" tvg-logo="http://odwp.xyz/slogo/ngw.png" group-title="MuZu | Knowledge",NAT GEO WILD FHD
+https://my.odtv.uk:443/live/9486331171/7860879594/89.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5b409e9e96db2a5b46a9e9e
+#EXTINF:-1 tvg-id="801" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="MuZu | Sport",ASTRO ARENA
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPRO P:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a35c43ff90d667ba1285ad0ae34ae810&key=99191e99138ed5dc6acaa
+#EXTINF:-1 tvg-id="802" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="MuZu | Sport",ASTRO ARENA 2
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e2a4758854ddf83f1e8f465a3d3d8910&key=a464e1f52f9027d40d40f9027d4d
+#EXTINF:-1 tvg-id="800" tvg-logo="http://linear-poster.astro.com.my/prod/logo/eGG_v1.png" group-title="MuZu | Sport", eGG NETWORK
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2602/default_ott.mpd
+
+#EXTINF:-1 tvg-id="animalplanet.id" tvg-name="ANIMAL PLANET FHD" tvg-logo="http://www.cloudnspro.xyz/esmi/animal.png" group-title="MuZu | Knowledge",ANIMAL PLANET FHD
+https://my.odtv.uk:443/live/9486331171/7860879594/94.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39b114b7ebecd9d4a7f1c797dd885b10&key=8d2be29307bbc382c687ccd382c687bb6c
+#EXTINF:-1 tvg-id="611" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png" group-title="MuZu | Kids",ASTRO CERIA
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6d2d84310d3fb9230404a1fbf5b33d10&key=8be93a08a6b415ef
+#EXTINF:-1 tvg-id="811" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="MuZu | Sport",ASTRO SUPERSPORT
+http://linears-playback.astro.com.my/vsg/21sn9ZkukHaSuHetlOsWgOgQw4x6eyDcRasA2bRJPnYsk=G2IP/dash-wv/jitp-linearwm/601/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f784920b784920b
+#EXTINF:-1 tvg-id="812" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="MuZu | Sport",ASTRO SUPERSPORT 2
+http://linears-playback.astro.com.my/vsg/21sn9ZkukHaSuHetlOsWgOgQw4x6eyDcRasA2bRJPnYsk=G2IP/dash-wv/jitp-linearwm/2104/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a522db0e2c8b90c38b64187018648a10&key=cf66fd459fe18d
+#EXTINF:-1 tvg-id="813" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="MuZu | Sport",ASTRO SUPERSPORT 3
+http://linears-playback.astro.com.my/vsg/21sn9ZkukHaSuHetlOsWgOgQw4x6eyDcRasA2bRJPnYsk=G2IP/dash-wv/jitp-linearwm/2701/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0f38843b85760decb7a30fde6af3ff10&key=9c50a5c2b6219463d9c50a5c2b6219463d92f946d
+#EXTINF:-1 tvg-id="814" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="MuZu | Sport",ASTRO SUPERSPORT 4
+http://linears-playback.astro.com.my/vsg/21sn9ZkukHaSuHetlOsWgOgQw4x6eyDcRasA2bRJPnYsk=G2IP/dash-wv/jitp-linearwm/2506/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=113d6e58ea7e223e3fb4a9af3e927010&key=dc86f5d82fbe5d2bfaa
+#EXTINF:-1 tvg-id="815" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" group-title="MuZu | Sport",ASTRO SUPERSPORT 5
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
+
+EXTINF:-1 tvg-id="bein.sports.my" tvg-name="BEIN SPORTS MAX" tvg-logo="http://www.cloudnspro.xyz/esmi/beinm.png" group-title="MuZu | Sport",BEIN SPORTS MAX
+https://my.odtv.uk:443/live/9486331171/7860879594/136.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=dac64e0ed7eec1cde6777b7616917710&key=6fcec68baae0c9822b9feccd
+#EXTINF:-1 tvg-id="619" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Boomerang_Logo.png" group-title="MuZu | Kids",BOOMERANG
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2408/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=435bb823afb75f32a891cc235dda1210&key=aebc4002b1d9f7708b1d9a1838c
+#EXTINF:-1 tvg-id="615" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cartoon_Network_v1.png" group-title="MuZu | Kids",CARTOON NETWORK
+http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
+
+#EXTINF:-1 tvg-id="Colors.in" tvg-name="Colors HD" tvg-logo="https://i.ibb.co/6F852NQ/COLORSHD.png" group-title="MuZu | India",Colors HD
+http://syarman.my.id:25461/0208/0208/552
+
+#EXTINF:-1 tvg-id="discovery.asia.my" tvg-name="DISCOVERY ASIA" tvg-logo="http://odwp.xyz/slogo/discoveryasia.png" group-title="MuZu | Knowledge",DISCOVERY ASIA
+https://my.odtv.uk:443/live/9486331171/7860879594/91.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=f609722db16e34f7f808179d29ba1b10&key=f8b715f21b3618b21b3618b21b36aa
+#EXTINF:-1 tvg-id="616" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Nicklelodeon_v1.png" group-title="MuZu | Kids",NICKELODEON
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=f5f27fe9eb27df6fc1baf702421edb10&key=3942434ec0c89db18163af37db1816
+#EXTINF:-1 tvg-id="618" tvg-logo="http://linear-poster.astro.com.my/prod/logo/MoonbugKids.png" group-title="MuZu Kids",MOONBUG KIDS
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3e4bcc300dc5f243ba5d5b4efca9fd10&key=364bdb669b935e4989b85e498fdfd
+#EXTINF:-1 tvg-id="617" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/nickjr.png" group-title="MuZu | Kids",NICK JR
+http://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
+
+#EXTINF: -1 tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="MuZu | Movie", ASTRO BOO
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281459
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0a5ce785d63f164f5be079a0aa9b6210&key=d388cbf5215f1bf5215f1bf5215f1bf5215f1bf5215f1bf5215f1bf5215f1b7f5215f1b7f5215f1b7f527f
+#EXTINF:-1 tvg-id="824" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png" group-title="MuZu | Sport",ASTRO KRIKET
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
+
+#EXTINF:-1 group-title="MuZu | Movie" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png" tvg-id="BoxOfficeThangathirai" ,241 ABO Thangathirai HD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd|license_type=clearkey&license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=31ff25ad46df61d3352a03de5f085f10&key=2daee966c9736498a05505174b266bde
