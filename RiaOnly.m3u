@@ -1,7 +1,0 @@
-#EXTM3U url-tvg="https://bit.ly/aqfadtvepg" refresh="1440" max-conn="1" refresh="24"
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 group-title="Malay" tvg-id="AstroRia" ch-number="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/104.png",104 Ria
-https://linears-playback.astro.com.my/vsg/21lqwn2z8tcv6KWkUQMjrknW6MuOnY8Poi5BuSlQYQGGY=r7Oq/dash-wv/jitp-linearwm/1004/default_ott.mpd
